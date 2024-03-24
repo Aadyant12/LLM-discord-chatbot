@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Chat Bot Extension",
+  "version": "1.0",
+  "description": "A Chrome extension with a chat bot",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "http://*/*"
+  ]
+
+}
