@@ -1,4 +1,4 @@
-# What MAruBot is?
+# What MaruBot is?
 While we have created MaruBot as a chatbot on Discord; we've also developed a web extension that brings its capabilities to life virtually anywhere. This extension allows MaruBot to retrieve information from platforms that don't have native bot support, as well as from webpages, enabling it to comprehensively answer your queries.
 
 Using MaruBot is super simple on Discord. First, we install MaruBot on the Discord server. Then, any user can send a message tagging @MaruBot on any channel, and MaruBot will quickly respond with a context-aware, personalized message. This message will have a green bubble preceding it, indicating that the bot is using chat history and is confident of the answer, avoiding any hallucination. If the bot does not use the chat context, it will respond with a red bubble preceding the message, which indicates that MaruBot is using the general data it was trained on and is not providing a context-aware answer.
